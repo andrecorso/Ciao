@@ -1,0 +1,19 @@
+{
+  "name": "mysql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@soluzioni-futura/eslint-config-soluzioni-futura": "^1.4.0",
+    "eslint": "^7.25.0"
+  },
+  "dependencies": {
+    "mysql2": "^2.2.5"
+  }
+}
